@@ -3,7 +3,7 @@ angular.module('starter.controllers', [])
 .controller('DashCtrl', function($scope, HTTP, Base64, $http) {
 
 
-
+console.log('bran che wellcome');
 
     
     
