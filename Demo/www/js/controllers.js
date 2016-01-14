@@ -14,6 +14,8 @@ console.log('bran che wellcome');
     console.log(res.data);
     var storge = localStorage.getItem('key');
     console.log(storge);
+
+    console.log('oke');
   })
 
 
