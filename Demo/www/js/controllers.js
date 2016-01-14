@@ -16,6 +16,7 @@ console.log('bran che wellcome');
     console.log(storge);
 
     console.log('oke');
+    console.log('oke2');
   })
 
 
